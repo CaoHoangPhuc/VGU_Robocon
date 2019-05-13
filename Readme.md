@@ -1,5 +1,7 @@
 VGU Mining bot competition - TDTU team
 
+In this repository contain all file that matter to robot mining team TDT
+
 Link event: https://www.facebook.com/events/2244638419132313/
 
 Youtube in action:
